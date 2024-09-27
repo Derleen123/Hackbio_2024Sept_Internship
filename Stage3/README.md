@@ -60,10 +60,8 @@ Key components:
 3. Positive correlation observed between binding affinity and predicted pIC50 values
 
 ## Getting Started
-
-1. Clone this repository
-2. Navigate to the `ML project python script/` directory for the machine learning model
-3. Refer to `Phase_one_report/` and `Phase_two_report/` for detailed methodologies and results
+1. Navigate to the `ML project python script/` directory for the machine learning model
+2. Refer to `Phase_one_report/` and `Phase_two_report/` for detailed methodologies and results
 
 ## Results Visualization
 
